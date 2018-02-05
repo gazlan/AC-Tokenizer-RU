@@ -1,0 +1,8 @@
+-*-   Greedy AC Tokenizer 1.0  *  Copyright (c)  Gazlan, 2014   -*-
+
+Tokenize unsyntaxed text by provided wordlist
+
+Usage: Greedy_AC_Tokenizer.com Wordlist.txt VictimFile
+
+complains_n_suggestions direct to gazlan@yandex.ru
+
